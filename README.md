@@ -24,6 +24,8 @@
 
 [![GSSoC '24 Contributor](https://img.shields.io/badge/GSSoC'24-Contributor-yellow?style=for-the-badge&logo=github)](https://gssoc.girlscript.tech/)
 [![GSSoC '24 Participant](https://img.shields.io/badge/GSSoC'24-Participant-blue?style=for-the-badge&logo=github)](https://gssoc.girlscript.tech/)
+[![GSSoC '24 Postman Api Challenge](https://api.badgr.io/public/assertions/pMqX1mEwQ3eMLkxLCncGoQ?identity__email=anshumanat7898%40gmail.com)](https://gssoc.girlscript.tech/)
+
 
 
 
