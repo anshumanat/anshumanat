@@ -20,6 +20,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanat&" alt="anshumanat" /></p>
 
+# GSSoC 2024 Badges
+
+[![GSSoC '24 Contributor](https://img.shields.io/badge/GSSoC'24-Contributor-yellow?style=for-the-badge&logo=github)](https://gssoc.girlscript.tech/)
+[![GSSoC '24 Participant](https://img.shields.io/badge/GSSoC'24-Participant-blue?style=for-the-badge&logo=github)](https://gssoc.girlscript.tech/)
+
+
+
 <!--
 **anshumanat/anshumanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
