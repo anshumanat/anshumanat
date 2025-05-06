@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/Anshuman_code1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Codeforces.svg" alt="anshuman_code1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Anshuman_code1" target="blank"><img align="center" src="https://iconscout.com/free-icon/code-forces-3521352_2944796" alt="anshuman_code1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anshumanvuo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshumanvuo1" height="30" width="40" /></a>
 </p>
 
